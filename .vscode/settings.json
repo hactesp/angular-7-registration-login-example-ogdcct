@@ -1,0 +1,38 @@
+{
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.implicitProjectConfig.checkJs": true,
+  "npm.enableScriptExplorer": true,
+  "debug.node.autoAttach": "off",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "workbench.editor.showTabs": true,
+  "explorer.confirmDelete": false,
+  "files.autoSave": "onFocusChange",
+  "editor.tabCompletion": "on",
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": false,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "vsicons.projectDetection.disableDetect": true,
+  "angular-schule.configUpdated": "0.4.6",
+  "vsicons.projectDetection.autoReload": true,
+  "workbench.iconTheme": "vscode-icons",
+  "explorer.compactFolders": false,
+  "git.ignoreLimitWarning": true
+}
